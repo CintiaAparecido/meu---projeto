@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Meu Site com Animações</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="fade-in">
+    <h1>Bem-vindo ao meu site!</h1>
+    <nav>
+      <a href="#">Início</a>
+      <a href="#">Sobre</a>
+      <a href="#">Contato</a>
+    </nav>
+  </header>
+
+  <section class="slide-up">
+    <h2>Esse é um projeto com animações suaves ✨</h2>
+    <p>Feito com carinho por Cíntia 💙</p>
+    <a href="#" class="botao-animado">Clique aqui</a>
+  </section>
+</body>
+</html>
